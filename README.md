@@ -2,6 +2,8 @@ CHICONS
 =======
 CH3's Free Flat SVG Icons Set
 
+DEMO: http://ch3.us
+
 I needed to make those icons to my website and some little projects, and I released it here hoping that it be useful to someone else.
 
 The SVG's contains flat 3 colours logos (Background, Front and shadow)
@@ -13,7 +15,6 @@ Social Icons
 Useful Icons
    -circle
    -square
-  
 
 Instruccions:
 Edit it easily on InkScape or by code.
