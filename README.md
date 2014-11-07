@@ -28,3 +28,6 @@ Jose Miguel Urdaneta - ch3.us
 Submit bugs/icon requests:
 Do it here ot tweet me at @ch3jose
 
+==DEPRECATED==
+I invite you to use font icons instead of SVG :)
+
