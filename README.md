@@ -2,7 +2,6 @@ CHICONS
 =======
 CH3's Free Flat SVG Icons Set
 
-DEMO: http://ch3.us
 
 I needed to make those icons to my website and some little projects, and I released it here hoping that it be useful to someone else.
 
@@ -26,7 +25,7 @@ Author:
 Jose Miguel Urdaneta - ch3.us
 
 Submit bugs/icon requests:
-Do it here ot tweet me at @ch3jose
+Do it here ot tweet me at @lavidafreelance
 
 ==DEPRECATED==
 I invite you to use font icons instead of SVG :)
